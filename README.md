@@ -38,4 +38,4 @@
 #### Г. Додатковий функціонал: Загальний звіт (Customer Report)
 При обранні пункту меню *File -> Customer Report* генерується зведена таблиця з усіма зчитаними з файлу `test.dat` клієнтами та їхніми рахунками у вирівняному текстовому форматі.
 
-> ![Загальний звіт]([TUIdemo/src/Mybank/Знімок екрана 2026-06-10 212813.png](https://github.com/ppc-ntu-khpi/tui-1-Yarik-chiinniilaa/blob/9f31e7f8ed5b74ab5ab04435d61dd2ccd8e5dc53/TUIdemo/src/Mybank/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-10%20212813.png))
+> ![Загальний звіт](https://github.com/ppc-ntu-khpi/tui-1-Yarik-chiinniilaa/blob/9f31e7f8ed5b74ab5ab04435d61dd2ccd8e5dc53/TUIdemo/src/Mybank/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-06-10%20212813.png))
